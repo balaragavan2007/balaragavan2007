@@ -10,21 +10,29 @@
 
 ---
 
-## 🔧 Tech Stack
-- **Languages:** C, C++, Python, Java  
-- **AI/ML:** OpenVINO, PyTorch, HuggingFace  
-- **Tools:** Git, GitHub, VS Code, Linux  
+## ⚡ Tech Stack
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![OpenVINO](https://img.shields.io/badge/OpenVINO-0071C5?style=for-the-badge&logo=intel&logoColor=white)  
 
 ---
 
 ## 📊 GitHub Stats
-(https://github-readme-stats.vercel.app/api?username=balaragavan2007&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=balaragavan2007&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=balaragavan2007&layout=compact&theme=radical)
 
 ---
 
 ## 🌐 Connect with me
 - LinkedIn: https://www.linkedin.com/in/bala-ragavan-318253369/  
-- Steam / Xbox: Gamer in free time 🎮  
+
+---
+
+## 🎮 Gaming
+[![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/YOURNAME)
+  
 
 ---
 
