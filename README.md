@@ -1,16 +1,32 @@
-## Hi there 👋
+# 👋 Hey there, I'm Bala!
 
-<!--
-**balaragavan2007/balaragavan2007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Aspiring CCE Student | Tech Enthusiast | Future AI Engineer**  
 
-Here are some ideas to get you started:
+🚀 Passionate about:
+- Coding and building projects
+- Exploring **Large Language Models (LLMs)** & AI
+- Gaming in my free time 🎮
+- Car enthusiast 🏎️ (Turbo + Tech = ❤️)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔧 Tech Stack
+- **Languages:** C, C++, Python, Java  
+- **AI/ML:** OpenVINO, PyTorch, HuggingFace  
+- **Tools:** Git, GitHub, VS Code, Linux  
+
+---
+
+## 📊 GitHub Stats
+![Bala's GitHub stats](![GitHub Stats](https://github-readme-stats.vercel.app/api?username=balaragavan2007&show_icons=true&theme=tokyonight)
+)
+
+---
+
+## 🌐 Connect with me
+- LinkedIn: https://www.linkedin.com/in/bala-ragavan-318253369/  
+- Steam / Xbox: Gamer in free time 🎮  
+
+---
+
+⭐ Always learning, building, and racing towards innovation 🚀
