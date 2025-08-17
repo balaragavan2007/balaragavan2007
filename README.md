@@ -18,8 +18,7 @@
 ---
 
 ## 📊 GitHub Stats
-![Bala's GitHub stats](![GitHub Stats](https://github-readme-stats.vercel.app/api?username=balaragavan2007&show_icons=true&theme=tokyonight)
-)
+(https://github-readme-stats.vercel.app/api?username=balaragavan2007&show_icons=true&theme=tokyonight)
 
 ---
 
