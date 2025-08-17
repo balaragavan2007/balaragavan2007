@@ -31,7 +31,7 @@
 ---
 
 ## 🎮 Gaming
-[![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)]([https://steamcommunity.com/profiles/76561199100435260/])
+[![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561199100435260/)
 [![Xbox](https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white)](https://account.xbox.com/en-us/profile?gamertag=PrayForCars#8755)
 
 ---
